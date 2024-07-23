@@ -15,5 +15,6 @@ public class Addition {
     	  int s = a.add("abc", 10,20);
     	  System.out.println("Addition = " +s);
     	  System.out.println("Sum = "+a.add("mno",1,2,3));
+    	  System.out.println("Sum ="+a.add("xyz",53,28,45));
       }
 }
